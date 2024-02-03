@@ -1,5 +1,7 @@
 Coin Grab Game
+
 Overview
+
 "Coin Grab" is a simple logic game developed in Python without a graphical interface. Two players, a human player, and a computer, take turns grabbing coins with the aim of avoiding being the one to take the last coin. The game is designed to challenge players' strategy and logic skills.
 
 Rules
